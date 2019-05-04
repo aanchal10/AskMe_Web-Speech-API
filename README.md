@@ -20,6 +20,8 @@ This web app currently can answer questions like:
 "What is today's date"
 "What is the weather in 'city-name'" 
 
+The knowledge of the app can be futher increases by adding handling for more such questions.
+
 For getting weather openweathermap API is used
 Generate API Key by creating account on this link -> https://openweathermap.org/api
 
